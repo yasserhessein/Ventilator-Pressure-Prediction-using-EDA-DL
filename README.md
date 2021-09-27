@@ -51,7 +51,7 @@ Ventilator Pressure Prediction using EDA + DL by Yasir Hussein Shakir
 * GitHub : https://github.com/yasserhessein
 * linkedin : https://www.linkedin.com/in/yasir-hus...
 * Source :
-* https://keras.com
-* https://tensorflow.com
-* https://pypi.org/project/dataprep/
+ https://keras.com
+ https://tensorflow.com
+ https://pypi.org/project/dataprep/
 
