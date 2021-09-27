@@ -12,7 +12,7 @@
 
 
 
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/29594/logos/thumb76_76.png?t=2021-07-29-12-46-57" width="600px">
+<img src="https://raw.githubusercontent.com/google/deluca-lung/main/assets/2020-10-02%20Ventilator%20diagram.svg" width="600px">
 
 
 
