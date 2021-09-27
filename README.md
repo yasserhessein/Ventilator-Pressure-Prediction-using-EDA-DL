@@ -14,7 +14,7 @@ What do doctors do when a patient has trouble breathing? They use a ventilator t
 
 * Link video
 
-[![Here]](https://www.youtube.com/watch?v=477Oi_a-pOk)
+[![Here]](https://www.youtube.com/watch?v=jNL8Iyhvx3o)
 
 ### Files
 * train.csv - the training set
